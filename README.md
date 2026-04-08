@@ -30,7 +30,7 @@ based on environmental and soil features.
 - Achieved 98.13% validation accuracy and 98.41% in test dataset
 
 ## 👥 Team Members
-- Alaa Farid
-- Hanin Nader
-- Nora Abd Alhalim
+- Alaa Farid  [@alaafarid998]
+- Hanin Nader [@haninsamra21-glitch]
+- Nora Abd Alhalim [@noraelshehaby154-num1]
 - Haidy Adel
